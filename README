@@ -8,7 +8,7 @@ CONTENTS OF THIS FILE
  INTRODUCTION
 ------------
 
-The main objective of axpo-reports is to provide a constant data update regarding the deals of Axpo Trading. This service daily communicates with an API to extract the desired info and saves it on a database for further use.
+The main objective of axpo-reports is to provide a constant data update regarding the deals of the company. This service daily communicates with an API to extract the desired info and saves it on a database for further use.
 
 
 MAINTAINERS
